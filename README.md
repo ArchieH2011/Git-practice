@@ -1,6 +1,2 @@
-# Git-practice
-
-
-
-hello mission to mars!!!
+# Git-practice, hello mission to mars!
 
